@@ -9,7 +9,7 @@ public class Circulo {
      * @param raio Double - informe o raio do círculo
      * @throws IllegalArgumentException Não é aceito números nulos e negativos
      * @since 1.0.0
-     * @link https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
+     * @see <a href="https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618">Contrutores</a>
      * @author Enzo Carvalho
      * */
     public Circulo(Double raio) {
@@ -22,7 +22,7 @@ public class Circulo {
 
 
     /** Método de calculo da área
-     * @return Double - Área
+     * @return Double - area
      * @since 1.0.0
      * @author Enzo Carvalho
      * */
